@@ -1,0 +1,23 @@
+.list-item {
+  list-style-type: none;
+}
+.post-title-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.post-title {
+  color: #12022f;
+  font-size: 18px;
+}
+.post-time {
+  color: #616e7c;
+  font-size: 14px;
+}
+.post-description {
+  color: #616e7c;
+  font-size: 14px;
+}
+.hr-line {
+  color: #9aa5b1;
+}
